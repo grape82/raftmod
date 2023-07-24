@@ -13,4 +13,4 @@
 * Longer Signs
 * More Storages
 * StackMod
-* [Teleport To Others]()
+* [Teleport To Others](https://github.com/grape82/raftmod/blob/main/howtouse/Teleport%20To%20Others.md)
