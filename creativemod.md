@@ -4,7 +4,7 @@
 * Cinema Mod
 * Furniture Mod
 * Glass Walls
-* Item Spawner
+* [Item Spawner](https://github.com/grape82/raftmod/blob/main/howtouse/Item%20Spawner.md)
 * Longer Signs
 * More Storages
 * [StackMod](https://github.com/grape82/raftmod/blob/main/howtouse/StackMod.md)
