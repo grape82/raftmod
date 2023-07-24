@@ -7,5 +7,5 @@
 * Item Spawner
 * Longer Signs
 * More Storages
-* StackMod
+* [StackMod](https://github.com/grape82/raftmod/blob/main/howtouse/StackMod.md)
 * [Teleport To Others](https://github.com/grape82/raftmod/blob/main/howtouse/Teleport%20To%20Others.md)
