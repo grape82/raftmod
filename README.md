@@ -10,5 +10,5 @@
 </div>
 
 
-## 건축 모드 모음집
-[이동](https://github.com/grape82/raftmod/blob/main/creativemod.md)
+## ⭐ 건축 모드 모음집
+[클릭해서 이동해주세요](https://github.com/grape82/raftmod/blob/main/creativemod.md)
