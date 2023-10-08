@@ -1,5 +1,7 @@
 <div align="center">
 
+[![image](사진.png)](https://github.com/grape82/raftmod)
+
 # 레프트 건축 모음집
 [Raftmodding](https://www.raftmodding.com/)에서 다운받은 모드를 모음집으로 제작했습니다!'
 
