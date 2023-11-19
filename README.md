@@ -6,6 +6,7 @@
 [![Stargazers](https://img.shields.io/github/stars/grape82/raftmod?label=stars&style=for-the-badge&style=flat-square)](https://github.com/grape82/raftmod/stargazers)
 [![Forks](https://img.shields.io/github/forks/grape82/raftmod?label=forks&style=for-the-badge&style=flat-square)](https://github.com/grape82/raftmod/releases/forks)
 [![Watchers](https://img.shields.io/github/watchers/grape82/raftmod?label=watchers&style=for-the-badge&style=flat-square)](https://github.com/grape82/raftmod/watchers)
+[![YouTube](https://img.shields.io/badge/YouTube-포도-red.svg?logo=youtube)](https://www.youtube.com/channel/UCRO5ekxPBR5WIsYozR92gUw)
 
 </div>
 
